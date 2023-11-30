@@ -1,0 +1,12 @@
+{
+  "server": {
+    "port": 8081
+  },
+  "datasource":{
+    "host": "localhost",
+    "user": "postgres",
+    "password": "000909",
+    "dbname": "testdb",
+    "port": "5432"
+  }
+}
